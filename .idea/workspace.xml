@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c282b7e-a1c2-4eb0-af15-b46a716ceb41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Microservices/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Microservices/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/file.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723907602377</updated>
-      <workItem from="1723907604213" duration="189000" />
+      <workItem from="1723907604213" duration="298000" />
     </task>
     <servers />
   </component>
